@@ -17,6 +17,6 @@ The Python libraries `flask`, `flask_pymongo`, `BeautifulSoup`, and `splinter` m
 * HTML 5.0
 * [Bootstrap](https://getbootstrap.com/)
 
-## Authors
+## Author
 
-* Arley Schenker
+* John Palalia
